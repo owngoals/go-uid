@@ -1,1 +1,1 @@
-# go-aliyun-oss
+# go-uid
